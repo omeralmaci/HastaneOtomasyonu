@@ -1,0 +1,6 @@
+C:\Users\omera\Desktop\hOtomasyon\hOtomasyon_1\hOtomasyon_1\bin\Release\hOtomasyon_1.exe.config
+C:\Users\omera\Desktop\hOtomasyon\hOtomasyon_1\hOtomasyon_1\bin\Release\hOtomasyon_1.exe
+C:\Users\omera\Desktop\hOtomasyon\hOtomasyon_1\hOtomasyon_1\bin\Release\hOtomasyon_1.pdb
+C:\Users\omera\Desktop\hOtomasyon\hOtomasyon_1\hOtomasyon_1\obj\Release\hOtomasyon_1.exe
+C:\Users\omera\Desktop\hOtomasyon\hOtomasyon_1\hOtomasyon_1\obj\Release\hOtomasyon_1.pdb
+C:\Users\omera\Desktop\hOtomasyon\hOtomasyon_1\hOtomasyon_1\obj\Release\hOtomasyon_1.csprojResolveAssemblyReference.cache
